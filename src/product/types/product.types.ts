@@ -1,6 +1,6 @@
 export interface ProductType {
-    productName: String,
-    productQuantity: Number,
-    productPrice: Number,
-    productDesc: String
+    name: String,
+    quantity: Number,
+    price: Number,
+    brand: String
 }
